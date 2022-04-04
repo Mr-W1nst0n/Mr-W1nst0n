@@ -18,7 +18,7 @@ I hope you can find something useful here 🦄
 ## Microsoft Technologies 🧙‍
 <p align="left">
   <img src="https://img.shields.io/badge/OS-Windows Server-lightgrey" />
-  <img src="https://img.shields.io/badge/Core-Idenity Management-orange" />
+  <img src="https://img.shields.io/badge/Core-Identity Management-orange" />
   <img src="https://img.shields.io/badge/APP-SharePoint-blue" />
   <img src="https://img.shields.io/badge/APP-Teams-blueviolet" />
   <img src="https://img.shields.io/badge/APP-Power Automate-lightblue" />
@@ -34,6 +34,7 @@ I hope you can find something useful here 🦄
 ## Code Editor ⚙️
 <p align="left">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-blueviolet" />
+  <img src="https://img.shields.io/badge/Notepad ++-green" />
 </p>
 
 ## Tools 🤖
@@ -41,6 +42,7 @@ I hope you can find something useful here 🦄
   <img src="https://img.shields.io/badge/PostMan-blue" />
   <img src="https://img.shields.io/badge/Insomnia-blueviolet" />
   <img src="https://img.shields.io/badge/Fiddler-brightgreen" />
+  <img src="https://img.shields.io/badge/Bitwarden-darkblue" />
   <img src="https://img.shields.io/badge/ShareGate-orange" />
 </p>
 
