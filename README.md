@@ -1,4 +1,4 @@
-## About Me 🤌
+# About Me 🤌
 
 <img src="https://raw.githubusercontent.com/Mr-W1nst0n/Mr-W1nst0n/master/BannerGitHub.jpg">
 
@@ -11,31 +11,31 @@ I hope you can find something useful here 🧙‍♂️🦄
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Mr-W1nst0n&hide=contribs,prs,issues&count_private=true&theme=gruvbox&showicons=true)]()   
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-W1nst0n&langs_count=8&theme=gruvbox)]()
 
-### Reach Me Out 📧
+## Reach Me Out 📧
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-black" />](https://github.com/Mr-W1nst0n)
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-white" />](https://twitter.com/mr_w1nst0n)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue" />](https://linkedin.com/in/matteo-zamori-09146b14/)
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-blueviolet" />](https://instagram.com/monsieur_404/)
 
-### Programming Languages 🥷
+## Programming Languages 🥷
 <p align="left">
   <img src="https://img.shields.io/badge/PowerShell-blue" />
   <img src="https://img.shields.io/badge/Python-yellow" />
 </p>
 
-### Cloud Services ☁
+## Cloud Services ☁
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft%20365-orange" />
   <img src="https://img.shields.io/badge/Azure-blue" />
   <img src="https://img.shields.io/badge/Powell%20Software-lightgrey" />
 </p>
 
-### Code Editor ⚙️
+## Code Editor ⚙️
 <p align="left">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-blueviolet" />
 </p>
 
-### Tools 🤖
+## Tools 🤖
 <p align="left">
   <img src="https://img.shields.io/badge/PostMan-blue" />
   <img src="https://img.shields.io/badge/Insomnia-blueviolet" />
