@@ -1,5 +1,7 @@
 ## About Me 🤌
 
+<img src="https://raw.githubusercontent.com/Mr-W1nst0n/Mr-W1nst0n/master/BannerGitHub.jpg">
+
 Hey folks! I'm Matteo, a simple **Modern Workplace Engineer** living in **Geneva**  
 I'm a big fan of Microsoft Technologies, in particular **SharePoint** and **Teams**.  
 When I don't sit in front of the screen 🧑🏻‍💻, I spend most of the time outdoor in the mountains ⛰️
