@@ -1,4 +1,4 @@
-# About Me 🤌
+# About Me 🙈🙉🙊
 
 <img src="https://raw.githubusercontent.com/Mr-W1nst0n/Mr-W1nst0n/master/BannerGitHubv2.jpg">
 
@@ -25,7 +25,7 @@ I hope you can find something useful here 🦄
   <img src="https://img.shields.io/badge/DB-SQL Server-red" />
 </p>
 
-## Programming Languages 🥷
+## Programming Languages 🚀
 <p align="left">
   <img src="https://img.shields.io/badge/PowerShell-blue" />
   <img src="https://img.shields.io/badge/Python-yellow" />
